@@ -1,0 +1,21 @@
+{
+    "name": "ledaishu/composer_demo",
+    "description": "try make a package",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ledaishu",
+            "email": "2285748379@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+		"php":">=5.6"
+	},
+	"autoload": {
+		"psr-4": {
+			"Flower\\": "src/"
+		}
+	}
+}
