@@ -3,7 +3,7 @@
 ## 安装
 
 ```
-composer require ledaishu/mydemo
+composer require ledaishu/composer_demo
 ```
 
 ## 示例
